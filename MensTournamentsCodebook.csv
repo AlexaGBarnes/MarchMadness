@@ -1,0 +1,48 @@
+Variable,NCAA Code,Description
+APG,APG,Average assists per game by listed team during the regular season
+AST,AST,Total assists made by listed team during the regular season
+BKPG,BKPG,Average blocks made per game by listed team during the regular season
+BLKS,BLKS,Blocks made by listed team during the regular season
+DQ,DQ,Total disqualifying fouls made by athletes on the listed team during the regular season
+DREBS,DRebs,Total defensive rebounds captured by listed team during the regular season
+FG_PCT,FG%,Percentage of field goals attempted scored by listed team during the regular season
+FGA,FGA,Field goals attempted by listed team during the regular season
+FGM,FGM,Total Field goals scored by listed team during the regular season
+FOULS,Fouls,Personal fouls made by listed team during the regular season
+FT,FT,Total free throws scored by listed team during the regular season
+FT_PCT,FT%,Percentage of free throws attempted scored by listed team during the regular season
+FTA,FTA,Total free throws attempted by listed team during the regular season
+GM,GM,Games played by listed team during the regular season
+L,L,Games lost by listed team during the regular season
+NAME,Name,School Name
+OPP_FG,OPP FG,Total Field goals scored by opposing teams during the regular season
+OPP_FG_PCT,OPP FG%,Percentage of attempted field goals scored by opposing teams during the regular season
+OPP_FGA,OPP FGA,Total field goals attempted by opposing teams during the regular season
+OPP_PPG,OPP PPG,Average points opposing teams scored per game during the regular season
+OPP_PTS,OPP PTS,Points scored by opposing teams team during the regular season
+OPP_REB,OPP REB,Total rebounds captured by opposing teams during the regular season
+OPP_RPG,OPP RPG,Average rebounds captured per game by opposing teams during the regular season
+OPP_THREEFG,Opp 3FG,Total 3-point field goals scored by opposing teams during the regular season
+OPP_THREEFGA,Opp 3FGA,Total 3-point field goals attempted by opposing teams during the regular season
+OPP_TO,Opp TO,Total turnovers made by opposing teams during the regular season
+OREBS,ORebs,Total offensive rebounds captured by listed team during the regular season
+PFPG,PFPG,Average fouls per game made by listed team during the regular season
+PPG,PPG,Average points listed team scored per game during the regular season
+PTS,PTS,Points scored by listed team during the regular season
+REB,REB,Total rebounds captured by listed team during the regular season
+REB_MAR,REB MAR,Rebound margin for listed team during the regular season
+ROUNDS,,The number of rounds a given team successfully completed in the NCAA March Madness Tournament
+RPG,RPG,Average rebounds captured per game by listed team during the regular season
+SCR_MAR,SCR MAR,Average of listed team's score margins during the regular season
+SERIAL,Serial,Unique Serial Number
+ST,ST,Steals made by listed team during the regular season
+STPG,STPG,Average steals per game by listed team during the regular season
+THREEFG,3FG,Total 3-point field goals scored by listed team during the regular season
+THREEFG_PCT,3FG%,Percentage of attempted 3-point field goals scored by listed team during the regular season
+THREEFGA,3FGA,Total 3-point field goals attempted by listed team during the regular season
+THREEPG,3PG,Average 3-point field goals per game by listed team during the regular season
+TO,TO,Total turnovers made by listed team during the regular season
+TOPG,TOPG,Average turnovers per game made by listed team during the regular season
+TOURNAMENT,,Team played in the NCAA March Madness Tournament
+W,W,Games won by listed team during the regular season
+YEAR,,Year NCAA March Madness tournament was played
